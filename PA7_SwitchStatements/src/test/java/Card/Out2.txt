@@ -1,0 +1,2 @@
+Enter card (Suit-Value): 10s
+Ten of Spades

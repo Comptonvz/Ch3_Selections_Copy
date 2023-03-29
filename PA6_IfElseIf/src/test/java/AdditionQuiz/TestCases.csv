@@ -1,0 +1,4 @@
+Class,Method,StandardIn,TestDataFilename,ExpectedOutFilename,StandardOutFilename,ReadsFromFile,InputFilename,WritesToFile,OutputFilename,hasReturn,hasParameters,parametersFilename,contains
+AdditionQuiz,main,true,Add1.txt,Expected1.txt,Out1.txt,false,null,false,null,false,false,null,null
+AdditionQuiz,main,true,Add2.txt,Expected2.txt,Out2.txt,false,null,false,null,false,false,null,null
+AdditionQuiz,main,true,Add3.txt,Expected3.txt,Out3.txt,false,null,false,null,false,false,null,null

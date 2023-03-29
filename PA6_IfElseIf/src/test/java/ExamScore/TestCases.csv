@@ -1,0 +1,6 @@
+Class,Method,StandardIn,TestDataFilename,ExpectedOutFilename,StandardOutFilename,ReadsFromFile,InputFilename,WritesToFile,OutputFilename,hasReturn,hasParameters,parametersFilename,contains
+ExamScore,main,true,Exam1.txt,Expected1.txt,Out1.txt,false,null,false,null,false,false,null,null
+ExamScore,main,true,Exam2.txt,Expected2.txt,Out2.txt,false,null,false,null,false,false,null,null
+ExamScore,main,true,Exam3.txt,Expected3.txt,Out3.txt,false,null,false,null,false,false,null,null
+ExamScore,main,true,Exam4.txt,Expected4.txt,Out4.txt,false,null,false,null,false,false,null,null
+ExamScore,main,true,Exam5.txt,Expected5.txt,Out5.txt,false,null,false,null,false,false,null,null

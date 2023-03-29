@@ -1,0 +1,4 @@
+Enter first integer: 5
+Enter second integer: 9
+Enter third integer: 10
+Order ascending: 5, 9, 10

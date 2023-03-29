@@ -1,0 +1,2 @@
+rock (1), paper (2), scissor (3): 3
+The computer is paper. You are scissor. You win.

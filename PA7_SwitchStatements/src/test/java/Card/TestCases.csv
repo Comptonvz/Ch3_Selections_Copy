@@ -1,0 +1,5 @@
+Class,Method,StandardIn,TestDataFilename,ExpectedOutFilename,StandardOutFilename,ReadsFromFile,InputFilename,WritesToFile,OutputFilename,hasReturn,hasParameters,parametersFilename,contains
+Card,main,true,Card1.txt,Expected1.txt,Out1.txt,false,null,false,null,false,false,null,null
+Card,main,true,Card2.txt,Expected2.txt,Out2.txt,false,null,false,null,false,false,null,null
+Card,main,true,Card3.txt,Expected3.txt,Out3.txt,false,null,false,null,false,false,null,null
+Card,main,false,null,null,null,false,null,false,null,false,false,null,switch

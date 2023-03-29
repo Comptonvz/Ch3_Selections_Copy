@@ -1,0 +1,4 @@
+How many siblings do you have? 1
+How many brothers do you have? 1
+How many sisters do you have? 0
+You have 1 brother(s) and 0 sister(s).

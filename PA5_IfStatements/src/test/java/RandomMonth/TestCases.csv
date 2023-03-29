@@ -1,0 +1,2 @@
+Class,Method,StandardIn,TestDataFilename,ExpectedOutFilename,StandardOutFilename,ReadsFromFile,InputFilename,WritesToFile,OutputFilename,hasReturn,hasParameters,parametersFilename,contains
+RandomMonth,main,false,null,null,null,false,null,false,null,false,false,null,(int)(12*Math.random())+1

@@ -1,0 +1,2 @@
+Enter the score you received on your exam: 75
+You earned a C! You passed.

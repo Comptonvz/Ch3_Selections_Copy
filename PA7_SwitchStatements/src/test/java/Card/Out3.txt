@@ -1,0 +1,2 @@
+Enter card (Suit-Value): jC
+Jack of Clubs

@@ -1,0 +1,5 @@
+Class,Method,StandardIn,TestDataFilename,ExpectedOutFilename,StandardOutFilename,ReadsFromFile,InputFilename,WritesToFile,OutputFilename,hasReturn,hasParameters,parametersFilename,contains
+AscendingOrder,main,true,Ascending1.txt,Expected1.txt,Out1.txt,false,null,false,null,false,false,null,null
+AscendingOrder,main,true,Ascending2.txt,Expected2.txt,Out2.txt,false,null,false,null,false,false,null,null
+AscendingOrder,main,true,Ascending3.txt,Expected3.txt,Out3.txt,false,null,false,null,false,false,null,null
+AscendingOrder,main,true,Ascending4.txt,Expected4.txt,Out4.txt,false,null,false,null,false,false,null,null

@@ -1,0 +1,5 @@
+Class,Method,StandardIn,TestDataFilename,ExpectedOutFilename,StandardOutFilename,ReadsFromFile,InputFilename,WritesToFile,OutputFilename,hasReturn,hasParameters,parametersFilename,contains
+DayOfWeek,main,true,Day1.txt,Expected1.txt,Out1.txt,false,null,false,null,false,false,null,null
+DayOfWeek,main,true,Day2.txt,Expected2.txt,Out2.txt,false,null,false,null,false,false,null,null
+DayOfWeek,main,true,Day3.txt,Expected3.txt,Out3.txt,false,null,false,null,false,false,null,null
+DayOfWeek,main,false,null,null,null,false,null,false,null,false,false,null,switch

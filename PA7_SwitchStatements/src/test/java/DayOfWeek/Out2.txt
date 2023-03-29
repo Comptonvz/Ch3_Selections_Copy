@@ -1,0 +1,6 @@
+Day Codes; 0-sun, 1-mon, 2-tue, 3-wed, 4-thurs, 5-fri, 6-sat
+Enter month: 12
+Enter day: 7
+Enter year: 1941
+Enter day of January 1st: 3
+Date: 12/7/1941 landed on a Sunday

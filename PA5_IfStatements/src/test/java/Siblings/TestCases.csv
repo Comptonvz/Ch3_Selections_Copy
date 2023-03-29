@@ -1,0 +1,4 @@
+Class,Method,StandardIn,TestDataFilename,ExpectedOutFilename,StandardOutFilename,ReadsFromFile,InputFilename,WritesToFile,OutputFilename,hasReturn,hasParameters,parametersFilename,contains
+Siblings,main,true,Siblings1.txt,Expected1.txt,Out1.txt,false,null,false,null,false,false,null,null
+Siblings,main,true,Siblings2.txt,Expected2.txt,Out2.txt,false,null,false,null,false,false,null,null
+Siblings,main,true,Siblings3.txt,Expected3.txt,Out3.txt,false,null,false,null,false,false,null,null

@@ -1,0 +1,66 @@
+****ExamScore - 1****
+	Class: ExamScore
+	Method: main
+	Input(s): main
+	Passed: true
+
+****ExamScore - 2****
+	Class: ExamScore
+	Method: main
+	Input(s): main
+	Passed: true
+
+****ExamScore - 3****
+	Class: ExamScore
+	Method: main
+	Input(s): main
+	Passed: true
+
+****ExamScore - 4****
+	Class: ExamScore
+	Method: main
+	Input(s): main
+	Passed: true
+
+****ExamScore - 5****
+	Class: ExamScore
+	Method: main
+	Input(s): main
+	Passed: true
+
+****AdditionQuiz - 1****
+	Class: AdditionQuiz
+	Method: main
+	Input(s): main
+	Passed: true
+
+****AdditionQuiz - 2****
+	Class: AdditionQuiz
+	Method: main
+	Input(s): main
+	Passed: true
+
+****AdditionQuiz - 3****
+	Class: AdditionQuiz
+	Method: main
+	Input(s): main
+	Passed: true
+
+****RockPaperScissor - 1****
+	Class: RockPaperScissor
+	Method: main
+	Input(s): main
+	Passed: true
+
+****RockPaperScissor - 2****
+	Class: RockPaperScissor
+	Method: main
+	Input(s): main
+	Passed: true
+
+****RockPaperScissor - 3****
+	Class: RockPaperScissor
+	Method: main
+	Input(s): main
+	Passed: true
+

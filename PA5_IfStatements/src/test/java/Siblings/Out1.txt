@@ -1,0 +1,2 @@
+How many siblings do you have? 0
+You are an only child.

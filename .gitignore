@@ -1,0 +1,12 @@
+PA5_IfStatements/src/main/java/*.java
+PA5_IfStatements/src/main/java/*.class
+PA5_IfStatements/src/test/java/*.java
+PA6_IfElseIf/src/main/java/*.java
+PA6_IfElseIf/src/main/java/*.class
+PA6_IfElseIf/src/test/java/*.java
+PA7_SwitchStatements/src/main/java/*.java
+PA7_SwitchStatements/src/main/java/*.class
+PA7_SwitchStatements/src/test/java/*.java
+test/java/Tester.java
+test/java/TestCase.java
+test/java/Constants.java

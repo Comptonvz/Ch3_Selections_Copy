@@ -1,0 +1,6 @@
+Day Codes; 0-sun, 1-mon, 2-tue, 3-wed, 4-thurs, 5-fri, 6-sat
+Enter month: 9
+Enter day: 11
+Enter year: 2001
+Enter day of January 1st: 1
+Date: 9/11/2001 landed on a Tuesday

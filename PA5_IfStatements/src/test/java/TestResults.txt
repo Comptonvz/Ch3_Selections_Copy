@@ -1,0 +1,84 @@
+****Siblings - 1****
+	Class: Siblings
+	Method: main
+	Input(s): main
+	Passed: true
+
+****Siblings - 2****
+	Class: Siblings
+	Method: main
+	Input(s): main
+	Passed: true
+
+****Siblings - 3****
+	Class: Siblings
+	Method: main
+	Input(s): main
+	Passed: true
+
+****QuadraticFormula - 1****
+	Class: QuadraticFormula
+	Method: main
+	Input(s): main
+	Passed: true
+
+****QuadraticFormula - 2****
+	Class: QuadraticFormula
+	Method: main
+	Input(s): main
+	Passed: true
+
+****QuadraticFormula - 3****
+	Class: QuadraticFormula
+	Method: main
+	Input(s): main
+	Passed: true
+
+****QuadraticFormula - 4****
+	Class: QuadraticFormula
+	Method: main
+	Input(s): main
+	Passed: true
+
+****QuadraticFormula - 5****
+	Class: QuadraticFormula
+	Method: main
+	Input(s): main
+	Passed: true
+
+****QuadraticFormula - 6****
+	Class: QuadraticFormula
+	Method: main
+	Input(s): main
+	Passed: true
+
+****AscendingOrder - 1****
+	Class: AscendingOrder
+	Method: main
+	Input(s): main
+	Passed: true
+
+****AscendingOrder - 2****
+	Class: AscendingOrder
+	Method: main
+	Input(s): main
+	Passed: true
+
+****AscendingOrder - 3****
+	Class: AscendingOrder
+	Method: main
+	Input(s): main
+	Passed: true
+
+****AscendingOrder - 4****
+	Class: AscendingOrder
+	Method: main
+	Input(s): main
+	Passed: true
+
+****RandomMonth - 1****
+	Class: RandomMonth
+	Method: main
+	Input(s): main
+	Passed: true
+

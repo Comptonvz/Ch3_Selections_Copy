@@ -1,0 +1,48 @@
+****Card - 1****
+	Class: Card
+	Method: main
+	Input(s): main
+	Passed: true
+
+****Card - 2****
+	Class: Card
+	Method: main
+	Input(s): main
+	Passed: true
+
+****Card - 3****
+	Class: Card
+	Method: main
+	Input(s): main
+	Passed: true
+
+****Card - 4****
+	Class: Card
+	Method: main
+	Input(s): main
+	Passed: true
+
+****DayOfWeek - 1****
+	Class: DayOfWeek
+	Method: main
+	Input(s): main
+	Passed: true
+
+****DayOfWeek - 2****
+	Class: DayOfWeek
+	Method: main
+	Input(s): main
+	Passed: true
+
+****DayOfWeek - 3****
+	Class: DayOfWeek
+	Method: main
+	Input(s): main
+	Passed: true
+
+****DayOfWeek - 4****
+	Class: DayOfWeek
+	Method: main
+	Input(s): main
+	Passed: true
+
