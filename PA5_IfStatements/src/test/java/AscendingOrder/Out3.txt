@@ -1,4 +1,4 @@
 Enter first integer: 6
 Enter second integer: 4
 Enter third integer: 4
-Order ascending: 4, 4, 6
+The integers in ascending order are: 4, 4, 6

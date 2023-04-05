@@ -1,4 +1,4 @@
 Enter first integer: 9
 Enter second integer: 7
 Enter third integer: 2
-Order ascending: 2, 7, 9
+The integers in ascending order are: 2, 7, 9

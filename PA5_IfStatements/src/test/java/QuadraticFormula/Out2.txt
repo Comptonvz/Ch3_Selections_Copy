@@ -1,4 +1,2 @@
-Enter coefficient "a": 1
-Enter coefficient "b": 2
-Enter coefficient "c": 1
-Real root one: -1.00
+QuadraticFormula was not compiled correctly.
+Class may be in wrong directory.
